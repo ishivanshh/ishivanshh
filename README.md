@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Saxena</h1>
 <h3 align="center">"Engineering Student | Aspiring Full-Stack Developer | Python Enthusiast | Exploring AI Integrations"</h3>
 <img align = "right” alt = "coding” width ="400" src ="https://media.licdn.com/dms/image/v2/D5603AQHjfOhqrZt5tA/profile-displayphoto-shrink_800_800/B56ZUK5ijkHEAc-/0/1739644617871?e=1758153600&v=beta&t=zFpHBf8x8J2OcNqXEGaujtmnq6YqS0p5qeywis_45zU”>
-- 🔭 I’m currently working on [Virtual Assistant](https://github.com/ishivanshh/virtual_assistant-)
 
 - 🌱 I’m currently learning **Machine Learning**
 
