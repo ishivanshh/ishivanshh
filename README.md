@@ -3,9 +3,7 @@
 <img align = "right” alt = "coding” width ="400" src ="https://media.licdn.com/dms/image/v2/D5603AQHjfOhqrZt5tA/profile-displayphoto-shrink_800_800/B56ZUK5ijkHEAc-/0/1739644617871?e=1758153600&v=beta&t=zFpHBf8x8J2OcNqXEGaujtmnq6YqS0p5qeywis_45zU”>
 
 - 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on [cric-form](https://github.com/ishivanshh/Cric-form)
-
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/ishivanshh?tab=repositories](https://github.com/ishivanshh?tab=repositories)
 
 - 📫 How to reach me **https://www.linkedin.com/in/saxenashivansh/**
