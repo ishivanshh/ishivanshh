@@ -34,6 +34,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=ishivanshh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishivanshh&theme=dark&hide_border=false)
 
+## 🧠 DSA Journey
+
+- Solving problems daily on LeetCode
+- Currently preparing for SDE-1 roles
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/JhTw9bOAm3?theme=dark&font=Baloo&ext=contest)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
