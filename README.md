@@ -4,9 +4,9 @@
 
   Email Me 👉 ✉️ **shivanshsaxena248@gmail.com** For Collaboration/Project or Anything Else.
 
-- 🔭 I’m currently working on [Evana_Candle](https://github.com/ishivanshh/Evana_candle)
+- 🔭 I’m currently working on [DesignForPhotographer](https://github.com/ishivanshh/Designforphotographer)
 
-- 🌱 I’m currently learning **Machine Learning & Nodejs**
+- 🌱 I’m currently learning **Machine Learning & Backend**
 
 - 👯 I’m looking to collaborate on [Evana_candle](https://github.com/ishivanshh/Evana_candle)
 
