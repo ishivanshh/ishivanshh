@@ -42,7 +42,6 @@ Email Me 👉 ✉️ **shivanshsaxena248@gmail.com** For Collaboration/Project o
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JhTw9bOAm3?theme=dark&font=Baloo&ext=contest)
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ishivanshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishivanshhh" height="30" width="40" /></a>
