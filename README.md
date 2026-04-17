@@ -26,6 +26,10 @@ Email Me 👉 ✉️ **shivanshsaxena248@gmail.com** For Collaboration/Project o
 </div>
 <h3 align="left">💻 Tech Stack:</h3>
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <p align="left">
 
   <!-- Languages -->
@@ -62,7 +66,7 @@ Email Me 👉 ✉️ **shivanshsaxena248@gmail.com** For Collaboration/Project o
 - Solving problems daily on LeetCode
 - Currently preparing for SDE-1 roles
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JhTw9bOAm3?theme=dark&font=Baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/codewithshivi?theme=dark&font=Baloo&ext=contest)
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -77,24 +81,3 @@ Email Me 👉 ✉️ **shivanshsaxena248@gmail.com** For Collaboration/Project o
   </a>
 </p>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 📐 Activity Graph
-
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=100860877" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=100860877&image_size=auto&color_scheme=dark"
-      />
-      <img 
-        alt="GitHub Activity Dashboard of @ishivanshh" 
-        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=100860877&image_size=auto&color_scheme=light"
-        width="90%"
-      />
-    </picture>
-  </a>
-</p>
