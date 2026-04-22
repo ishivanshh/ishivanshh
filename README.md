@@ -10,8 +10,6 @@ Email Me 👉 ✉️ **shivanshsaxena248@gmail.com** For Collaboration/Project o
 
 - 👯 I’m looking to collaborate on [Evana_candle](https://github.com/ishivanshh/Evana_candle)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ishivanshh?tab=repositories](https://github.com/ishivanshh?tab=repositories)
-
 - 📫 How to reach me **https://www.linkedin.com/in/saxenashivansh/**
 
 - 📄 Know about my experiences [https://personal-portfolio-rust-seven-30.vercel.app)
