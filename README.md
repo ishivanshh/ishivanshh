@@ -4,9 +4,9 @@
 
 Email Me 👉 ✉️ **shivanshsaxena248@gmail.com** For Collaboration/Project or Anything Else.
 
-- 🔭 I’m currently working on [Basecampy](https://github.com/ishivanshh/basecampyforbackend)
+- 🔭 I’m currently working on [VIDTUBE](https://github.com/ishivanshh/basecampyforbackend)
 
-- 🌱 I’m currently learning **Machine Learning & Backend**
+- 🌱 I’m currently learning **Nodejs Express Reactjs**
 
 - 👯 I’m looking to collaborate on [Evana_candle](https://github.com/ishivanshh/Evana_candle)
 
